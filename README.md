@@ -17,7 +17,7 @@ This application allows you to edit your code.
 ![Text-Editor](/01-manifest.png)
 
 ## Installation
-Before using the application do a npm install then run npm run start.
+Before using the application do a npm install then run npm run start!
       
 ## Useage
 To edit code for programming.
